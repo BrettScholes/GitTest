@@ -9,4 +9,3 @@ while tempint <= num :
     tempint += 1
 
 print '{0}! is: {1}' .format(num, factorial)
-
